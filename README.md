@@ -4,7 +4,8 @@ Zadanie: Iterowanie po elementach DOM
 
 Dodaj kilka elementów button do strony. Nadaj im klasę button. Za pomocą pętli for przejdź przez wszystkie te elementy i wyświetl tekst zawarty w każdym z nich za pomocą alert().
 
-<button class="button">Jem placki</button>
+<c><button class="button">Jem placki</button></c>
+
 W pliku index.html dodaj kilka elementów <button> na stronie, zgodnie z powyższym schematem.
 
 Użyj metody document.getElementsByClassName aby pobrać elementy ze strony i przypisz je do zmiennej.
